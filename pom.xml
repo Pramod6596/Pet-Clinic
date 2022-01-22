@@ -48,7 +48,6 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:git@github.com:Pramod6596/Pet-Clinic-One.git</developerConnection>
-		<tag>HEAD</tag>
+		<developerConnection>scm:git:https://github.com/Pramod6596/Pet-Clinic.git</developerConnection>
   </scm>
 </project>
