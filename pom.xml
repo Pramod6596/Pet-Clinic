@@ -51,6 +51,6 @@
 		<developerConnection>
 			scm:git:https://github.com/Pramod6596/Pet-Clinic.git
 		</developerConnection>
-	  <tag>1</tag>
+	  <tag>Head</tag>
   </scm>
 </project>
