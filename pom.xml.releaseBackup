@@ -50,7 +50,7 @@
 
 	<scm>
 		<developerConnection>
-			scm:git:git@github.com:pramod/sfg-pet-clinic.git
+			scm:git:git@github.com:Pramod6596/Pet-Clinic.git
 		</developerConnection>
 	</scm>
 </project>
